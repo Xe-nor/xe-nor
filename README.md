@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEmVb8bLBNASg/profile-displaybackgroundimage-shrink_350_1400/0/1661243161794?e=1666828800&v=beta&t=F5APi8paynZbiAaDTvS8cT95sO2AiMboEg8p_tHKt8I)
 <h4 align="center">I'm a passionate self-taught full stack web developer and software engineer from India. <br/> My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 <hr/>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 - 🔭 I’m currently working on **Weather Tracker**
 
