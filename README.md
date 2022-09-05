@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://xe-nor.github.io/Portfolio.github.io/](https://xe-nor.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **JAVA and Web Developer**
+- 💬 Ask me about **JAVA and Web Development**
 
 - 📫 How to reach me **amarendra.amar.dash@gmail.com**
 
