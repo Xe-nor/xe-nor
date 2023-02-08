@@ -3,8 +3,8 @@
 </div>  
   
 
-## <div align="center">I'm a passionate self-taught full stack web developer and software engineer from India.
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</div>  
+## <div align="center">I'm a passionate self-taught full stack web developer and software engineer from India.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</div>  
+
   
 
 - 🔭 I’m currently working on Flutter app  
