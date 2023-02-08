@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm a passionate self-taught full stack web developer and software engineer from India.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</div>  
+## <div align="center">I'm a passionate self-taught full stack web developer and software engineer from India.<p align="center">My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p></div>  
 
   
 
@@ -90,4 +90,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
