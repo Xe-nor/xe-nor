@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/17m8__QvyrOTBnZaeDieKahJgbgs8aVgv/view?usp=share_link)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEmVb8bLBNASg/profile-displaybackgroundimage-shrink_350_1400/0/1661243161794?e=1666828800&v=beta&t=F5APi8paynZbiAaDTvS8cT95sO2AiMboEg8p_tHKt8I)
 <h4 align="center">I'm a passionate self-taught full stack web developer and software engineer from India. <br/> My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 <hr/>
 
