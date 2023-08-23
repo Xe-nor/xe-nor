@@ -7,16 +7,16 @@
 
   
 
-- 🔭 I’m currently working @HighRadius Corporation 
+- 🔭 I’m currently working on Spring and Hibernate. 
   
 
-- 🌱 I’m currently learning Advanced Java 
+- 🌱 I’m currently learning Advanced Java.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JAVA and ReactJS.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces.  
   
 
 <br/>  
